@@ -157,7 +157,7 @@ nav ul li a{
 }
 .card img{
   background: rgba(249, 85, 85, 1);
-  border-radius:100%;
+  border-radius:50%;
   padding: 5px;
 }
 .card h6{
